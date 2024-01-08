@@ -1,9 +1,15 @@
 # 👋 Hola mi nombre es Andrés Cordón 👋
-### Desarrollador Android!
-
-Soy desarrollador Android en crecimiento.
+### Desarrollador Android en crecimiento!
 
 Hace 6 meses, terminé la formación DAM y desde entonces he ido realizando distintos proyectos y cursos relacionados con Android.
+## Experiencia laboral
+4 meses de prácticas en Baufest como desarrollador Android
+
+Tras esto, hice un curso de modularización y afiancé mis conocimientos en las distintas arquitecturas (MVVM, MVI)
+
+[Complete Multi-Modular Architecture for Android Development](https://www.udemy.com/course/complete-multi-modular-architecture-for-android-development/)
+
+
 ## Tecnologías:
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
@@ -24,12 +30,14 @@ Hace 6 meses, terminé la formación DAM y desde entonces he ido realizando dist
 ![Añadir nuevo diario](https://github.com/acdominguez03/Portfolio/assets/96787090/cc6f7313-d848-4a6e-a56b-ef43306514f5)
 
 #### Aplicación creada para poder postear distintos diarios, con un título, descripción, estado, fecha e imágenes. La función principal de esta aplicación es poder tener un seguimiento global de todo lo que te va pasando.
+#### La arquitectura usada en esta aplicación es MVVM y se ha utilizado para el diseño Jetpack Compose, para la inyección de dependencias Hilt, para las peticiones web Retrofit y para la base de datos local Room.
 [Diary App](https://github.com/acdominguez03/DiaryApp)
 
 ## Rick And Morty
 ![Home](https://github.com/acdominguez03/Portfolio/assets/96787090/54c3ed32-45ee-4518-90cf-7dbf613d7af1)
 ![Detalle](https://github.com/acdominguez03/Portfolio/assets/96787090/f6f25729-195b-433a-885b-556e16da3073)
 #### Wikipedia donde se pueden ver todos los personajes de Rick and Morty con sus datos principales.
+#### La arquitectura usada en esta aplicación es MVI y se ha utilizado para el diseño Jetpack Compose, para la inyección de dependencias Koin, para las peticiones web Retrofit y para la base de datos local Room.
 [Rick And Morty](https://gitlab.com/acdominguez03/rick_and_morty_app)
 
 ## Nba Trivial
@@ -37,6 +45,7 @@ Hace 6 meses, terminé la formación DAM y desde entonces he ido realizando dist
 ![Preguntas](https://github.com/acdominguez03/Portfolio/assets/96787090/3410b997-b2bb-4d60-a84c-e273607aee4b)
 #### Trivial de Nba, con tres tipos de preguntas: verdadero o falso, elección o imágenes. 
 #### Creada con una base de datos local (Laravel) y con Mongo DB
+#### La arquitectura usada en esta aplicación es MVVM y se ha utilizado para el diseño Jetpack Compose, para la inyección de dependencias Koin, para las peticiones web Retrofit.
 [Nba Trivial](https://github.com/acdominguez03/NbaTrivial)
 
 ## Contacto
